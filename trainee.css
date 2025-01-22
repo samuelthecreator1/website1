@@ -1,0 +1,107 @@
+body{
+    background-color: #253947;
+
+}
+.navi{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16%;
+    list-style-type:none;
+
+    
+}
+.navi a{
+    color:#0fb8ce ;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: "Arimo";
+}
+h3{
+    padding-top: 30px;
+    padding-left: 270px;
+    color:#0fb8ce;
+    font-family: "Arimo";
+    font-size: 30px;
+}
+.image{
+    float: left;
+
+    
+
+    
+}
+
+#image{
+    height: 20%;
+    width: 15%;
+}
+.image2{
+   
+   float: left;   
+   padding-left: 370px;
+
+
+   
+   
+   margin: -95px;
+   
+
+}
+p{
+    color:#0fb8ce;
+}
+#image2{
+    padding-left: 600px;
+    height: 20%;
+    width: 15%;
+    margin: -95px;
+    color:#0fb8ce;
+}
+.image3{
+    padding-left: 800px;
+    float: left;
+    
+   margin: -95px;
+
+}
+#image3{
+    padding-left: 930px;
+    padding-top: 40px;
+    height: 20%;
+    width: 15%;
+    color:#0fb8ce;
+    
+}
+h1{
+    height: 250px;
+    width: 250px;
+    font-size: 16px;
+    color: white;
+    padding-top: 70px;
+    font-family: "Arimo";
+}
+h2{
+    height: 250px;
+    width: 250px;
+    padding-left: 600px;
+    font-size: 16px;
+    margin: -250px;
+    color: white;
+    font-family: "Arimo";
+
+}
+h4{
+    height: 250px;
+    width: 250px;
+    padding-left: 1060px;
+    font-size: 16px;
+    margin: -250px;
+    color: white;
+    font-family: "Arimo";
+
+}
+
+
+    
+

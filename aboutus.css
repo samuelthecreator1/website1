@@ -1,0 +1,51 @@
+body{
+    background-color: #0c2b40;
+
+}
+
+
+.id h1{
+     font-size: 36px;
+     color: #0fb8ce;
+     
+
+}
+.id p{
+    color: white;
+    font-size: 16px;
+}
+
+
+img{
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.phone h2{
+    color: #0fb8ce;
+    font-size: 18px ;
+     
+}
+.phone p{
+    color: white;
+    font-size: 16px;
+}
+#stt{
+    color: #0fb8ce;
+    font-size: 18px ;
+     
+}
+#sss{
+    color: white;
+    font-size: 16px;
+}
+.social h4{
+    color: #0fb8ce;
+    font-size: 18px ;
+     
+}
+.social img{
+  
+  padding-left: 70px;  
+}

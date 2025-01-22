@@ -1,0 +1,34 @@
+body{
+    background-color: #283c4a;
+
+}
+h1{
+    font-size: 21px;
+    color: white;
+    font-family: "Arimo";
+    padding-left: 200px;
+    padding-top: 20px;
+
+
+}
+.navi{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16%;
+    list-style-type:none;
+
+    
+}
+.navi a{
+    color:#0fb8ce ;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: "Arimo";
+}
+ul{
+    font-size: 32px;
+    font-family: "Arimo";
+    color: white;
+    font-family: "Arimo";
+}
